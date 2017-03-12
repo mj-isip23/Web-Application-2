@@ -5,5 +5,4 @@
 # Description
 This web application serves as an assignment.
 
-Subject: Web Application II
-Instructor: Mr Romack Natividad
+Web Application II - Mr. Romack Natividad
