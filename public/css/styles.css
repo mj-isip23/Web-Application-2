@@ -1,0 +1,145 @@
+body {
+	margin: 0;
+	background-image: url("{{URL::asset('bg.png')}}");
+	font-family: calibri;
+}
+
+header {
+	background-color: #127CBB;
+	height: 160px;
+	text-shadow: 1px 3px 6px #000;
+	border: solid 1px #ccc;
+}
+
+#list-header {
+	background-color: #127CBB;
+	height: 140px;
+	text-shadow: 1px 3px 6px #000;
+	margin-bottom: 5px;
+	padding: 0 20%;
+	border-bottom: solid 5px #999;
+}
+
+#lvcc_logo {
+	padding: 20px;
+	margin: 0;
+	display: block;
+	position: relative;
+}
+
+#lvcc_logo img {
+	height: 120px;
+	float: left;
+}
+
+#lvcc{
+	float: left;
+	padding: 0;
+	margin-left: 20px; 
+	font-family: tolkien;
+	font-size: 35px;
+	color: #fff;
+}
+
+#lvcc span {
+	font-size: 45px;
+}
+
+#list-lvcc_logo {
+	padding: 15px 25px;
+	margin: 0;
+	display: block;
+}
+
+#list-lvcc_logo img {
+	height: 110px;
+	float: left;
+}
+
+#list-lvcc{
+	float: left;
+	padding: 0;
+	margin-top: 10px;
+	margin-left: 30px; 
+	font-family: tolkien;
+	font-size: 50px;
+	color: #fff;
+}
+
+#title {
+	float: right;
+	color: #fff;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin: 10px 35px;
+}
+
+#title {
+	float: right;
+	color: #fff;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin: 10px 35px;
+}
+
+form {
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 50px; 
+	margin-bottom: 50px; 
+	padding: 25px;
+	background-color: #fff;
+	border: solid 3px #ccc;
+}
+
+section {
+	font-weight: bold;
+	color: #666666;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #eee;
+	border: solid 1px #ccc;
+}
+
+input, textarea {
+	margin-top: 5px;
+	margin-bottom: 10px;
+	width: 96%;
+	border-radius: 5px;
+	border: solid 1px #ccc;
+	padding: 7px 10px;
+}
+
+textarea {
+	resize: none;
+}
+
+button{
+	color: #fff;
+	background-color: #127CBB;
+	border: none;
+	border-radius: 5px;
+	margin-right: 5px; 
+	padding: 5px 20px;
+	cursor: pointer;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+#see-list {
+	display: inline;
+	background-color: #47a1d6;
+	border-radius: 5px;
+	width: 50px;
+}
+
+#see-list a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: bolder;
+	padding: 4px 35px;
+}
