@@ -5,8 +5,9 @@
 ## Description
 This web application serves as an assignment for my Web Application II class.
 <br>
-Instructor: Mr Romack Natividad
-<br>
+Instructor: Mr Romack Natividad <br>
+Student: Michael John Isip
+<br><br>
 
 ## Homepage
 ![Homepage](https://github.com/mj-isip23/Web-Application-2/blob/master/screenshots/homepage.png)
