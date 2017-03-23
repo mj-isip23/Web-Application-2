@@ -4,6 +4,7 @@
 
 ## Description
 This web application serves as an assignment for my Web Application II class.
+<br>
 Instructor: Mr Romack Natividad
 <br>
 
