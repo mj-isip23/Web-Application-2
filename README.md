@@ -4,7 +4,7 @@
 
 ## Description
 This web application serves as an assignment for my Web Application II class.
-<br>
+<br><br>
 Instructor: Mr Romack Natividad <br>
 Student: Michael John Isip
 <br><br>
